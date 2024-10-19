@@ -9,7 +9,7 @@ spec:
   chart:
     spec:
       chart: ./weatherapp/chart
-      version: 0.1.0
+      version: 2.11.0
       sourceRef:
         kind: GitRepository
         name: demoproject
