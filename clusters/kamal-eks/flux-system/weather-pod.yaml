@@ -17,6 +17,6 @@ spec:
   values:
     replicaCount: 2
     image:
-      repository: nishant2081/k123s
+      repository: imnishantdevops/weather-forecast-app
       pullPolicy: IfNotPresent
       tag: "latest"
